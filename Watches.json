@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Smartwatch Model XX", "price": 199.99 },
+    { "id": 2, "name": "Smartwatch Model Y", "price": 249.99 },
+    { "id": 3, "name": "Smartwatch Model Z", "price": 299.99 },
+    { "id": 4, "name": "Smartwatch Pro 2022", "price": 349.99 },
+    { "id": 5, "name": "Smartwatch Elite Series", "price": 399.99 }
+  ]
